@@ -1,0 +1,9 @@
+//ways to write js in document
+//inline
+// internal 
+//external
+
+//onclick 
+//onmouseover 
+
+//addEventListener('event', function)
